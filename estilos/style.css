@@ -29,5 +29,12 @@ section#telefone{
     
     height: 627px;
     width: 311px;
-    background: url('../imagens/iphone9.png') no-repeat;
+    background: url('../imagens/frame-iphone.png') no-repeat;
+}
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 270px;
+    height: 471px;
 }
